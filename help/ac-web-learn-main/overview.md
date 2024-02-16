@@ -4,7 +4,7 @@ description: Adobe Campaign は、クロスチャネルのカスタマーエク�
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 24deab035cd5610129f3bb6fe623b7cab611a107
+source-git-commit: 608accefe961294852839ccdf8b64150e77af1b1
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 44%
@@ -26,4 +26,14 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 > 詳しくは、
 > 
 > * [Campaign クライアントコンソールのチュートリアル](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja) Campaign コンソールのガイダンス
-> * [Adobe Campaign Web ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.htm) を参照してください。
+> * [Adobe Campaign Web ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html) を参照してください。
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
+</div>
