@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign web ユーザーインターフェイス
 user-guide-description: Adobe Campaign web ユーザーインターフェイスの機能を使用する方法について説明します。
 breadcrumb-title: Web ユーザーインターフェイス - チュートリアル
 auto-video-transcripts: true
-source-git-commit: 44ebccd588fbf418a2a1004078ca95d408d2f20c
+source-git-commit: aa26b99fa3ed3f1aad7c2ef684ec8fc7e27daa21
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 68%
@@ -30,7 +30,7 @@ ht-degree: 68%
    + [Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + ワークフロー {#workflows}
    + [ターゲティングワークフローの作成](/help/workflows/create-a-targeting-workflow.md)
-+ [Campaign クライアントコンソールチュートリアル](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja)
 + Experience Leagueのライブ録画 {#exl-live-recordings}
    + [新しいAdobe Campaign Web ユーザーインターフェイスを先に進める](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)
++ [Campaign クライアントコンソールチュートリアル](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja)
 
