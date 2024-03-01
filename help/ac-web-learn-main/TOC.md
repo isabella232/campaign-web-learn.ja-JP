@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign web ユーザーインターフェイス
 user-guide-description: Adobe Campaign web ユーザーインターフェイスの機能を使用する方法について説明します。
 breadcrumb-title: Web ユーザーインターフェイス - チュートリアル
 auto-video-transcripts: true
-source-git-commit: 05e775e5cde19d739b60bfe2f66edc72eb1c1de2
+source-git-commit: 9b6c3185f6e4409ad8dc975fa722c9cf9c140ab6
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 83%
+source-wordcount: '117'
+ht-degree: 68%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 83%
    + [メールコンテンツをゼロから設計](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [アップロードHTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [コンテンツアシスタントを使用したメールコンテンツの作成と改善](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
+   + [E メール配信のプレビューと配達確認](/help/deliveries/preview-and-proof-an-email-delivery.md)
 + プロファイルとオーディエンス {#profiles-and-audiences}
    + [プロファイルを見る](/help/profiles-and-audiences/explore-profiles.md)
    + [オーディエンスの管理と構築](/help/profiles-and-audiences/manage-and-build-audiences.md)
@@ -30,4 +31,6 @@ ht-degree: 83%
 + ワークフロー {#workflows}
    + [ターゲティングワークフローの作成](/help/workflows/create-a-targeting-workflow.md)
 + [Campaign クライアントコンソールチュートリアル](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja)
++ [Experience Leagueのライブ録画]{#exl-live-recordings}
+   + [新しいAdobe Campaign Web ユーザーインターフェイスを先に進める](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)
 

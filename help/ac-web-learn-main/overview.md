@@ -4,10 +4,10 @@ description: Adobe Campaign は、クロスチャネルのカスタマーエク�
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 93309841439c8d3fcd829b2f73418c66dd4cac11
+source-git-commit: 9b6c3185f6e4409ad8dc975fa722c9cf9c140ab6
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 79%
+source-wordcount: '269'
+ht-degree: 71%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 79%
 
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign Web ユーザーインターフェイスの機能に関するビデオとチュートリアルが含まれています。 新しいビデオは定期的に追加されます。
 
-ビジネスとデータのニーズに基づく Campaign プラットフォームのカスタマイズと、他のシステムへの接続は、Campaign クライアントコンソールで管理されます。その結果、一部の設定と機能は、Campaign クライアントコンソールからのみアクセス、作成または管理できます。詳しくは、 [Campaign Web およびクライアントコンソールガイド](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html) を参照してください。
+ビジネスとデータのニーズに基づく Campaign プラットフォームのカスタマイズと、他のシステムへの接続は、Campaign クライアントコンソールで管理されます。その結果、一部の設定と機能は、Campaign クライアントコンソールからのみアクセス、作成または管理できます。詳しくは、 [Campaign Web およびクライアントコンソールガイド](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=ja) を参照してください。
 
 >[!INFO]
 > 
@@ -25,7 +25,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 > これらのチュートリアルは、お探しのものではありませんか？
 > 詳しくは、
 > * Campaign コンソールのガイダンスについては、[Campaign クライアントコンソールチュートリアル](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja)
-> * Campaign web ユーザーインターフェイスについて詳しくは、[Adobe Campaign web ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html)。
+> * Campaign web ユーザーインターフェイスについて詳しくは、[Adobe Campaign web ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=ja)。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -36,3 +36,10 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 <div id="staff-picks-section">
 </div>
+
+## Experience Leagueライブイベント
+
+* **[新しいAdobe Campaign Web ユーザーインターフェイスを先に進める](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)**
+
+  *新しいユーザーエクスペリエンスで、クロスチャネルキャンペーンを計画、開始、測定する方法について説明します。*
+
