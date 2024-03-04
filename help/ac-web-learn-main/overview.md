@@ -1,17 +1,17 @@
 ---
-title: Adobe Campaign Web ユーザーインターフェイスチュートリアル
+title: Adobe Campaign web ユーザーインターフェイスチュートリアル
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign web ユーザーインターフェイスの特長や機能に関するビデオとチュートリアルが含まれています。
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: bec58452e62291152487a1d588bfdabf1a9a6183
+source-git-commit: 93b8eff49c10418cb3e6fc443e109748cfa1fbd8
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 59%
+ht-degree: 63%
 
 ---
 
-# Adobe Campaign Web ユーザーインターフェイスチュートリアル
+# Adobe Campaign web ユーザーインターフェイスチュートリアル
 
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign Web ユーザーインターフェイスの機能に関するビデオとチュートリアルが含まれています。 新しいビデオは定期的に追加されます。
 
