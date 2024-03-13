@@ -1,6 +1,6 @@
 ---
-title: アップロードHTML
-description: HTMLをアップロードして E メールを作成する方法、E メールデザイナーとの互換性を持たせる方法、テンプレートに変換する方法について説明します。
+title: HTML をアップロードしてメールを作成
+description: HTML をアップロードしてメールを作成する方法、メールデザイナーと互換性を持たせる方法、テンプレートに変換する方法について説明します。
 feature: Email Design
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 251
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-14954
 source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# アップロードHTML
+# HTML をアップロードしてメールを作成
 
-HTMLをアップロードして E メールを作成する方法、E メールデザイナーとの互換性を持たせる方法、テンプレートに変換する方法について説明します。
+HTML をアップロードしてメールを作成する方法、メールデザイナーと互換性を持たせる方法、テンプレートに変換する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427633/?learn=on)
